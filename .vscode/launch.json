@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "启动程序",
-            "program": "${workspaceFolder}/container-width-most-water.js"
+            "program": "${workspaceFolder}/length-of-longest-substring.js"
         }
     ]
 }
