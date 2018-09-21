@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "启动程序",
-            "program": "${workspaceFolder}/find-all-anagrams-in-a-string.js"
+            "program": "${workspaceFolder}/4Sum2"
         }
     ]
 }
